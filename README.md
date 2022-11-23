@@ -1,10 +1,9 @@
 <h1 align="center">Hola 👋, soy Alexis</h1>
 - 👨 💻 Todos mis proyectos están disponibles en [Proximamente...] (Proximamente...)
 
-- 📫 Cómo comunicarse conmigo **olivarezalexis749@gmail.com**
+- 📫 Cómo comunicarse conmigo: <img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" alt="@olivarezalexis749" height="15" width="20" /></a> **olivarezalexis749@gmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left"><a href="https://twitter.com/@alexisxde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alexisxde" height="30" width="40" /></a>
-
+<h3 align="left">Conéctate conmigo:</h3><p align="left"><a href="https://twitter.com/@alexiissxde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alexiissxde" height="30" width="40" /></a>
 
 <a href="https://instagram.com/@alexiss.olivarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alexiss.olivarez" height="30" width="40" /></a></p>
 
